@@ -1,6 +1,6 @@
 displayNames:
   crk: nēhiyawēwin
-  en: Plains Cree (SRO)
+  en:  Plains Cree (SRO)
 decimal: ','
 modes:
   android:
@@ -153,7 +153,7 @@ modes:
              \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}  \u{1C}
       \u{1C} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0} \u{0}
 longpress:
-  a: â ā á à 
+  a: â ā á à
   e: ê ē é è
   i: î ī í ì
   o: ô ō ó ò
